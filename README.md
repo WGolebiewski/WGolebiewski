@@ -1,5 +1,5 @@
 ### What's up? 
-**Hello, I'm Wiktor Gołębiewski! I'm Young Swift programmer!
+<b>Hello, I'm Wiktor Gołębiewski! I'm Young Swift programmer!</b>
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Swift
