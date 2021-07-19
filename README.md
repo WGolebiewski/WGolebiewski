@@ -1,7 +1,5 @@
 ### What's up? 
-
-<!--
-**Hello, I'm Wiktor Gołębiewski! I'm Young Swift programmer
+**Hello, I'm Wiktor Gołębiewski! I'm Young Swift programmer!
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Swift
@@ -11,4 +9,3 @@
   ➤ [Linkedin](https://www.linkedin.com/in/wiktor-gołębiewski-6bb036210/)
 - ⚡ Fun fact: **The Amazon river is home to four species of river dolphin that are found nowhere else on Earth. 
 **
--->
