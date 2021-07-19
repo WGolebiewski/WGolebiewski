@@ -7,4 +7,4 @@
 - 📫 How to reach me: 
 - ✉ wiktor.golebiewski06@gmail.com 
 - ➤ [Linkedin](https://www.linkedin.com/in/wiktor-gołębiewski-6bb036210/)
-- ⚡ Fun fact: #The Amazon river is home to four species of river dolphin that are found nowhere else on Earth...
+- ⚡ Fun fact: <b>#The Amazon river is home to four species of river dolphin that are found nowhere else on Earth...</b>
