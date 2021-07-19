@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's up? 
 
 <!--
 **Hello, I'm Wiktor Gołębiewski! I'm Young Swift programmer
