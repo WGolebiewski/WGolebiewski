@@ -1,8 +1,8 @@
 ### What's up? 
-<b>Hello, I'm Wiktor Gołębiewski! I'm Young Swift programmer!</b>
+<b>Hello, I'm Wiktor Gołębiewski! I'm Young programmer!</b>
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning #programming - searching language
 - 🤔 I’m looking for help with probably nothing, but if you've too much money, you can send me 😄
 - 📫 How to reach me: 
 - ✉ wiktor.golebiewski06@gmail.com 
